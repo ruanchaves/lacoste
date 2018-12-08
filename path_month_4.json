@@ -1,1 +1,1 @@
-{"embeddings": [{"tensorName": "My tensor", "tensorShape": [1000, 50], "tensorPath": "https://raw.githubusercontent.com/ruanchaves/lacoste/master/tf_month_4_metadata.tsv", "metadataPath": "https://raw.githubusercontent.com/ruanchaves/lacoste/master/tf_month_4_tensor.tsv"}]}
+{"embeddings": [{"tensorName": "My tensor", "tensorShape": [1000, 50], "tensorPath": "https://raw.githubusercontent.com/ruanchaves/lacoste/master/tf_month_4_tensor.tsv", "metadataPath": "https://raw.githubusercontent.com/ruanchaves/lacoste/master/tf_month_4_metadata.tsv"}]}
