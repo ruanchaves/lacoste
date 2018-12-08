@@ -1,2 +1,2 @@
 # lacoste
-Visualização da evolução da marca Lacoste em 2018 no Twitter
+## Visualização da evolução da marca Lacoste no Brasil em 2018 no Twitter
